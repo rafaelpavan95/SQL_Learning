@@ -11,4 +11,4 @@ Projeto de modelagem de um pequeno banco de dados relacional de uma universidade
 
 # Exercícios de SQL:
 
-- Consultas no Database HR;
+- Filtering and Sorting in HR Database;
