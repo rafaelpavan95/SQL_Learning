@@ -13,4 +13,5 @@ Projeto de modelagem de um pequeno banco de dados relacional de uma universidade
 
 Exercícios de síntaxe de SQL com databases de exemplo.
 
-- [Filtering and Sorting in HR Database](https://github.com/rafaelpavan95/database_modelling/blob/main/HR_db_exercises.sql);
+- [Filtering and Sorting on HR Database](https://github.com/rafaelpavan95/database_modelling/blob/main/HR_db_exercises.sql);
+- [Joins on HR Database](https://github.com/rafaelpavan95/database_modelling/blob/main/joins_HR_db.sql);
