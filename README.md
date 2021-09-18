@@ -16,5 +16,6 @@ Exercícios de síntaxe de SQL com databases de exemplo.
 - [Filtering and Sorting on HR Database](https://github.com/rafaelpavan95/database_modelling/blob/main/HR_db_exercises.sql);
 - [Joins on HR Database](https://github.com/rafaelpavan95/database_modelling/blob/main/joins_HR_db.sql);
 - [Union on Sales Database](https://github.com/rafaelpavan95/database_modelling/blob/main/union_sales_db.sql);
+- [Joins on Sales Database](https://github.com/rafaelpavan95/database_modelling/blob/main/joins_sales.sql);
 
 
