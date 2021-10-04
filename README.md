@@ -2,6 +2,7 @@
 
 Atividades do Curso SQL For Data Science - Coursera - Universidade da Califórnia, Davis
 
+- [Semana 1 - Practice SQL](https://github.com/rafaelpavan95/database_modelling/blob/main/W1_Practice.sql)
 - [Semana 2 - Codding Assignement](https://github.com/rafaelpavan95/database_modelling/blob/main/W2_CodingAssignment.sql)
 - [Semana 2 - Practice Quiz](https://github.com/rafaelpavan95/database_modelling/blob/main/W2_PracticeQuiz.sql)
 
