@@ -1,4 +1,14 @@
-# database_modelling
+# SQL For Data Science - Coursera
+
+Atividades do Curso SQL For Data Science - Coursera - Universidade da Califórnia, Davis
+
+- [Semana 2 - Codding Assignement](https://github.com/rafaelpavan95/database_modelling/blob/main/W2_CodingAssignment.sql)
+- [Semana 2 - Practice Quiz](https://github.com/rafaelpavan95/database_modelling/blob/main/W2_PracticeQuiz.sql)
+
+
+
+# Modelagem de Banco de Dados Relacional
+
 Projeto de modelagem de um pequeno banco de dados relacional de uma universidade.
 
 
