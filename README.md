@@ -7,7 +7,8 @@ Atividades do Curso SQL For Data Science - Coursera - Universidade da Califórni
 - [Semana 2 - Practice Quiz](https://github.com/rafaelpavan95/database_modelling/blob/main/W2_PracticeQuiz.sql)
 - [Semana 3 - Coding Assignement](https://github.com/rafaelpavan95/database_modelling/blob/main/W3_CodingAssignment.sql)
 - [Semana 3 - Practice Quiz](https://github.com/rafaelpavan95/database_modelling/blob/main/W3_PracticeQuiz.sql)
-
+- [Semana 4 - Coding Questions](https://github.com/rafaelpavan95/database_modelling/blob/main/W4_CodingQuestions.sql)
+- [Final Project - Analyzing the YELP Database](https://github.com/rafaelpavan95/database_modelling/blob/main/W3_PracticeQuiz.sql)
 
 
 # Modelagem de Banco de Dados Relacional
