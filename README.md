@@ -3,6 +3,8 @@ Atividades dos Cursos SQL da plataforma Kaggle. Faz uso do Google Cloud BigQuery
 
 - [Getting Started With SQL and BigQuery](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Getting_Started_With_SQL_and_BigQuery.ipynb)
 - [Exercises](https://github.com/rafaelpavan95/SQL_Learning/blob/main/exercise-getting-started-with-sql-and-bigquery.ipynb)
+- [SELECT, WHERE BigQuery/Python/SQL](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Select%2C_From_%26_Where.ipynb)
+- [Exercises](https://github.com/rafaelpavan95/SQL_Learning/blob/main/exercise-select-from-where.ipynb)
  
 
 
