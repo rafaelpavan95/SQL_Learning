@@ -1,3 +1,12 @@
+# Intro to SQL and Advanced SQL - Kaggle
+Atividades dos Cursos SQL da plataforma Kaggle. Faz uso do Google Cloud BigQuery e Linguagem Python.
+
+- [Getting Started With SQL and BigQuery](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Getting_Started_With_SQL_and_BigQuery.ipynb)
+- [Exercises](https://github.com/rafaelpavan95/SQL_Learning/blob/main/exercise-getting-started-with-sql-and-bigquery.ipynb)
+ 
+
+
+
 # SQL For Data Science - Coursera
 
 Atividades do Curso SQL For Data Science - Coursera - Universidade da Califórnia, Davis
