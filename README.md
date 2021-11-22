@@ -19,7 +19,7 @@ Projeto de modelagem de um pequeno banco de dados relacional de uma universidade
 
 - Desenho do Modelo Conceitual (Entidades, Relacioamentos, Atributos e Cardinalidade);
 - Desenho do Modelo Lógico;
-- Aplicação de 1FN, 2FN e 3FN;
+- [Aplicação de 1FN, 2FN e 3FN](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Projeto_L%C3%B3gico_2FN_3FN.png);
 - [Implementação em SQL](https://github.com/rafaelpavan95/SQL_Learning/blob/main/implementacao.sql);
 
 
