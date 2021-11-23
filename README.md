@@ -1,4 +1,13 @@
 
+# Advanced SQL e Big Query - Kaggle
+
+Atividades do Curso Advanced SQL
+
+- [Exercício 1 - Joins and Unions](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Exercise_1_Advanced_SQL_BigQuery.ipynb)
+- [Exercicio 2 - Analytic Functions / Over / Partition](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Exercise_3_Advanced_SQL_BigQuery.ipynb)
+- [Exercício 3 - Nested and Repeated Data](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Exercise_3_Advanced_SQL_BigQuery.ipynb)
+- [Exercício 4 - Writing Efficient Queries](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Exercise_4_Advanced_SQL_BigQuery.ipynb)
+
 # SQL For Data Science - Coursera
 
 Atividades do Curso SQL For Data Science - Coursera - Universidade da Califórnia, Davis
