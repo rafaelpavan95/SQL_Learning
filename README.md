@@ -1,5 +1,5 @@
 
-# Advanced SQL e Big Query - Kaggle
+# Advanced SQL and Big Query - Kaggle
 
 Atividades do Curso Advanced SQL
 
