@@ -8,18 +8,17 @@ Atividades do Curso Advanced SQL
 - [Exercício 3 - Nested and Repeated Data](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Exercise_3_Advanced_SQL_BigQuery.ipynb)
 - [Exercício 4 - Writing Efficient Queries](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Exercise_4_Advanced_SQL_BigQuery.ipynb)
 
-# SQL For Data Science - Coursera
+# [SQL For Data Science - Coursera](https://github.com/rafaelpavan95/database_modelling/A)
 
 Atividades do Curso SQL For Data Science - Coursera - Universidade da Califórnia, Davis
 
-- [Semana 1 - Practice SQL](https://github.com/rafaelpavan95/database_modelling/blob/main/W1_Practice.sql)
-- [Semana 2 - Coding Assignement](https://github.com/rafaelpavan95/database_modelling/blob/main/W2_CodingAssignment.sql)
-- [Semana 2 - Practice Quiz](https://github.com/rafaelpavan95/database_modelling/blob/main/W2_PracticeQuiz.sql)
-- [Semana 3 - Coding Assignement](https://github.com/rafaelpavan95/database_modelling/blob/main/W3_CodingAssignment.sql)
-- [Semana 3 - Practice Quiz](https://github.com/rafaelpavan95/database_modelling/blob/main/W3_PracticeQuiz.sql)
-- [Semana 4 - Coding Questions](https://github.com/rafaelpavan95/database_modelling/blob/main/W4_CodingQuestions.sql)
-- [Final Project - Analyzing the YELP Database](https://github.com/rafaelpavan95/SQL_Learning/blob/main/DataScientistRolePlay2.txt)
-
+- Semana 1 - Practice SQL
+- Semana 2 - Coding Assignement
+- Semana 2 - Practice Quiz
+- Semana 3 - Coding Assignement
+- Semana 3 - Practice Quiz
+- Semana 4 - Coding Questions
+- Final Project - Analyzing the YELP Database
 
 # Modelagem de Banco de Dados Relacional
 
