@@ -30,7 +30,14 @@ Projeto de modelagem de um pequeno banco de dados relacional de uma universidade
 - Aplicação de 1FN, 2FN e 3FN;
 - Implementação em SQL
 
+# [Atividades do Livro Learning SQL](https://github.com/rafaelpavan95/SQL_Learning/tree/main/E)
 
+Exercícios de síntaxe de SQL com databases de exemplo.
+
+- Filtering and Sorting on HR Database
+- Joins on HR Database
+- Union on Sales Database
+- Joins on Sales Database
 
 # [Exercícios de SQL](https://github.com/rafaelpavan95/SQL_Learning/tree/main/D)
 
