@@ -20,25 +20,25 @@ Atividades do Curso SQL For Data Science - Coursera - Universidade da Califórni
 - Semana 4 - Coding Questions
 - Final Project - Analyzing the YELP Database
 
-# Modelagem de Banco de Dados Relacional
+# [Modelagem de Banco de Dados Relacional](https://github.com/rafaelpavan95/SQL_Learning/tree/main/C)
 
 Projeto de modelagem de um pequeno banco de dados relacional de uma universidade.
 
 
 - Desenho do Modelo Conceitual (Entidades, Relacioamentos, Atributos e Cardinalidade);
 - Desenho do Modelo Lógico;
-- [Aplicação de 1FN, 2FN e 3FN](https://github.com/rafaelpavan95/SQL_Learning/blob/main/Projeto_L%C3%B3gico_2FN_3FN.png);
-- [Implementação em SQL](https://github.com/rafaelpavan95/SQL_Learning/blob/main/implementacao.sql);
+- Aplicação de 1FN, 2FN e 3FN;
+- Implementação em SQL
 
 
 
-# Exercícios de SQL:
+# [Exercícios de SQL]](https://github.com/rafaelpavan95/SQL_Learning/tree/main/D)
 
 Exercícios de síntaxe de SQL com databases de exemplo.
 
-- [Filtering and Sorting on HR Database](https://github.com/rafaelpavan95/database_modelling/blob/main/HR_db_exercises.sql);
-- [Joins on HR Database](https://github.com/rafaelpavan95/database_modelling/blob/main/joins_HR_db.sql);
-- [Union on Sales Database](https://github.com/rafaelpavan95/database_modelling/blob/main/union_sales_db.sql);
-- [Joins on Sales Database](https://github.com/rafaelpavan95/database_modelling/blob/main/joins_sales.sql);
+- Filtering and Sorting on HR Database
+- Joins on HR Database
+- Union on Sales Database
+- Joins on Sales Database
 
 
