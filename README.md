@@ -32,7 +32,7 @@ Projeto de modelagem de um pequeno banco de dados relacional de uma universidade
 
 
 
-# [Exercícios de SQL]](https://github.com/rafaelpavan95/SQL_Learning/tree/main/D)
+# [Exercícios de SQL](https://github.com/rafaelpavan95/SQL_Learning/tree/main/D)
 
 Exercícios de síntaxe de SQL com databases de exemplo.
 
